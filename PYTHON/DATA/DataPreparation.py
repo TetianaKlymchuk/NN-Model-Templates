@@ -24,7 +24,7 @@ Consider a given univariate sequence:
 
 We can divide the sequence into multiple input/output patterns called samples, where three time steps are used as input and one time step is used as output for the one-step prediction that is being learned.
 
-X				y
+X			y
 10, 20, 30		40
 20, 30, 40		50
 30, 40, 50		60
